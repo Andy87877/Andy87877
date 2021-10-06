@@ -11,19 +11,16 @@
 - 📫 聯繫我? andy8787main@gmail.com
 
 
-<h3 align="center">GitHub Trophies(獎盃)</h3>
+<h1 align="center">Andy87877's profile</h1>
+<p align="center">
+  <br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy87877&langs_count=8&theme=react"/>
+  </a>
+  <br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Andy87877's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy87877&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Andy87877&theme=onedark&column=8&margin-w=2&margin-h=2&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">GitHub Stats(數據)</h3>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andy87877&layout=compact&langs_count=7&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Andy87877-top-langs" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andy87877&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="Andy87877-stats" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy87877&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232%22%20alt=%22goodjack-streak-stats" /></p>
-
-<!---
-Andy87877/Andy87877 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-test 測試
---->
