@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cpp & python
 - 📫 How to reach me? andy8787main@gmail.com
-- 🌐 Personal Blog: [Andy8787's Blog](https://andy8787.blogspot.com/)
+- 🌐 Personal Blog: [Andy8787's Blog](https://medium.com/@andy8787main)
 
 -----------------------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 - 👀 我喜歡寫程式
 - 🌱 我在學 Cpp 和 python
 - 📫 聯繫我? andy8787main@gmail.com
-- 🌐 個人部落格: [布長的部落格](https://andy8787.blogspot.com/)
+- 🌐 個人部落格: [布長的部落格](https://medium.com/@andy8787main)
 
 <h1 align="center">Andy87877's profile</h1>
 <p align="center">
