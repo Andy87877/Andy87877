@@ -26,6 +26,9 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Andy87877's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy87877&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
+![snake gif](https://github.com/Andy87877/Andy87877/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  
+
 <h1 align="center">codewars</h1>
 </a>
 <p align="center">
@@ -34,6 +37,3 @@
     <img title="Top Langs" src="https://www.codewars.com/users/Andy87877/badges/large"/>
   </a>
 </p>
-
-
-![](https://github.com/A/snk/raw/output/github-contribution-grid-snake.svg)
