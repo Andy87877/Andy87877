@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @Andy87877
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cpp & python & java
@@ -11,6 +12,7 @@
 - 🌱 我在學 Cpp 和 python 和 java
 - 📫 聯繫我? andy8787main@gmail.com
 - 🌐 個人部落格: [布長的部落格](https://medium.com/@andy8787main)
+
 
 <h1 align="center">Andy87877's profile</h1>
 <p align="center">
@@ -32,4 +34,6 @@
     <img title="Top Langs" src="https://www.codewars.com/users/Andy87877/badges/large"/>
   </a>
 </p>
-  
+
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
