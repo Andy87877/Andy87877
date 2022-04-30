@@ -25,13 +25,3 @@
 
 ![snake gif](https://github.com/Andy87877/Andy87877/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andy87877&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<h1 align="center">codewars</h1>
-</a>
-<p align="center">
-  <br />
-  <a href="https://www.codewars.com/users/Andy87877/badges/large">
-    <img title="Top Langs" src="https://www.codewars.com/users/Andy87877/badges/large"/>
-  </a>
-</p>
