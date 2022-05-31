@@ -19,7 +19,7 @@
 * <i class="fa fa-instagram fa-fw"></i> Instagram: [andy8787_pro](https://www.instagram.com/andy8787_pro/)
 * <i class="fa fa-simplybuilt fa-fw"></i> Discord: [Andy8787(布長)#3205](https://discord.com/users/951485825370173497)
 * <i class=" "></i> Google Developer: [Andy8787](https://developers.google.com/profile/u/Andy8787)
-* <i class=" "></i> twitter: [Andy8787(布長)](https://twitter.com/Andy87877)
+* <i class=" "></i> Twitter: [Andy8787(布長)](https://twitter.com/Andy87877)
 
 
 <h1 align="center">Andy87877's Github Data Visualization</h1>
