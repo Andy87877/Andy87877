@@ -12,7 +12,7 @@
 - 📫 聯繫我? andy8787main@gmail.com
 - 🌐 個人部落格: [布長的部落格](https://medium.com/@andy8787main)
 -----------------------------------------------------------------------------------------
-<h1 align="center">Andy87877's community</h1>
+<h1 align="center">Andy87877's social media</h1>
 
 * <i class="fa fa-github fa-fw"></i> GitHub: [Andy87877](https://github.com/Andy87877)
 * <i class="fa fa-facebook fa-fw"></i> Facebook: [Andy87877](https://www.facebook.com/Andy87877/)
@@ -20,6 +20,7 @@
 * <i class="fa fa-simplybuilt fa-fw"></i> Discord: [Andy8787(布長)#3205](https://discord.com/users/951485825370173497)
 * <i class=" "></i> Google Developer: [Andy8787](https://developers.google.com/profile/u/Andy8787)
 * <i class=" "></i> Twitter: [Andy8787(布長)](https://twitter.com/Andy87877)
+* <i class=" "></i> Codewars: [Andy87877](https://www.codewars.com/users/Andy87877)
 
 
 <h1 align="center">Andy87877's Github Data Visualization</h1>
