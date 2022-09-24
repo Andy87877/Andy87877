@@ -31,9 +31,11 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Andy87877's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy87877&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   
   <br>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a>
     <img title="Top Langs" src="https://api.githubtrends.io/user/svg/Andy87877/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves"/>
-  </a>
+  </a>&emsp;</a>
+  <a>
+    <img title="Top Langs" src="https://api.githubtrends.io/user/svg/Andy87877/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves"/>
 </p>
 
 ![snake gif](https://github.com/Andy87877/Andy87877/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
