@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Andy8787(布長)</h1>
 
 <p align="center">
- <a href="https://wakatime.com/@cba7c94e-29ee-4250-95f2-9bddcd759c4e"><img src="https://wakatime.com/badge/user/cba7c94e-29ee-4250-95f2-9bddcd759c4e.svg" alt="Total time coded since Jun 30 2022" /></a>:(((
+ <a href="https://wakatime.com/@cba7c94e-29ee-4250-95f2-9bddcd759c4e"><img src="https://wakatime.com/badge/user/cba7c94e-29ee-4250-95f2-9bddcd759c4e.svg" alt="Total time coded since Jun 30 2022" /></a>:((((
   <br>
   <a>
     <img title="" src="https://github-profile-trophy.vercel.app/?username=Andy87877&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy"/>
